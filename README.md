@@ -11,6 +11,9 @@ of work
 so i made a solver to programmatically find which 2 words would result in the simplest boolean
 expressions for the sake of my poor innocent hands :D
 
+unproudly written in the worst ever programming language known to man, python (praise the lord
+my spaces are still spaces)
+
 ## how were the results?
 
 i feel like this was more work than just choosing 2 random words and building it...
