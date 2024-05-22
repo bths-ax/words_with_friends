@@ -18,6 +18,8 @@ my spaces are still spaces)
 
 i feel like this was more work than just choosing 2 random words and building it...
 
+on another note my cpu smells like bbq after the stupid 30 minute computation it went through
+
 ## credits so the school doesnt sue me or smth
 
 - word list from [this guy on github](https://github.com/dolph/dictionary)
