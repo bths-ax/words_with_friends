@@ -21,6 +21,8 @@ i feel like this was more work than just choosing 2 random words and building it
 ## credits so the school doesnt sue me or smth
 
 - word list from [this guy on github](https://github.com/dolph/dictionary)
+- shorter word list from [this other guy on
+  github](https://github.com/first20hours/google-10000-english) (the other one took too long to brute force)
 - quine-mccluskey algorithm from [wikipedia](https://en.wikipedia.org/wiki/Quine%E2%80%93McCluskey_algorithm)
 - i was gonna use petrick's method for the prime implicant simplification but i got lazy (but [here
   it is](https://en.wikipedia.org/wiki/Petrick%27s_method) anyways)
