@@ -30,6 +30,9 @@ class Implicant:
 
 
 def calculate_minimum_operations(minterms: list[int], dont_cares: list[int]):
+    if len(minterms) == 0:  # stupid edge case not generating implicants
+        return 0
+
     # ill document this code on the day that python becomes a good language (never)
     implicants = [Implicant(minterm) for minterm in minterms]
     implicants += [Implicant(dont_care) for dont_care in dont_cares]
